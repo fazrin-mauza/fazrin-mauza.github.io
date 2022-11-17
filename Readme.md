@@ -1,9 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
 # ```Portofolio | Fazrin Mauza```
 <p align="center">
 <a href="https://github.com/fazrin-mauza/followers"><img title="Followers" src="https://img.shields.io/github/followers/fazrin-mauza?color=red&style=flat-square"></a>
@@ -40,25 +34,3 @@ License: https://bootstrapmade.com/license/
   <a href="https://github.com/fazrin-mauza"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://komarev.com/ghpvc/?username=fazrin-mauza&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=fazrin-mauza&color=green&style=flat-square&label=Profile+View"></a>
 </p>
-
-## ```How to install```
-
-[`Click Here For Tutorial`](https://youtu.be/BCY6V2PDDEA)<br>
-
-<p align="center">
-  <a href="https://youtu.be/BCY6V2PDDEA"><img src="https://telegra.ph/file/a5f2d77a88420560ed8c5.jpg" />
-</p>
-
-
-
-## ```coffee ☕```
-
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
-
-## ```Thanks To```
-
-- [`Zahir`]()
-- [`Eka`]()
-- [`Farhan`]()
-- [`Ojan`]()
-- [`ZeeoneOfc`]()
