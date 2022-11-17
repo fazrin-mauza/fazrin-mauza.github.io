@@ -9,7 +9,7 @@ License: https://bootstrapmade.com/license/
 <a href="https://github.com/fazrin-mauza/followers"><img title="Followers" src="https://img.shields.io/github/followers/fazrin-mauza?color=red&style=flat-square"></a>
 <a href="https://github.com/fazrin-mauza/fazrin-mauza.github.io/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/fazrin-mauza/fazrin-mauza.github.io?color=blue&style=flat-square"></a>
 <a href="https://github.com/fazrin-mauza/fazrin-mauza.github.io/network/members"><img title="Forks" src="https://img.shields.io/github/forks/fazrin-mauza/fazrin-mauza.github.io?color=red&style=flat-square"></a>
-<a href="https://github.com/fazrin-mauza/fazrin-mauza.github.io/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/fazrin-mauza/fazrin-mauza.github.io/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/fazrin-mauza/fazrin-mauza.github.io?style=flat-square"></a>
 <a href="https://github.com/fazrin-mauza/fazrin-mauza.github.io"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/zeeoneofc/Rest-api-alphabot/"><img title="Size" src="https://img.shields.io/github/repo-size/fazrin-mauza/fazrin-mauza.github.io?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffazrin-mauza%2Ffazrin-mauza.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
