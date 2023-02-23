@@ -1,4 +1,4 @@
-# ```Portofolio Fazrin Mauza```
+# ```Profile Fazrin Mauza```
 <p align="center">
 <a href="https://github.com/fazrin-mauza/followers"><img title="Followers" src="https://img.shields.io/github/followers/fazrin-mauza?color=red&style=flat-square"></a>
 <a href="https://github.com/fazrin-mauza/fazrin-mauza.github.io/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/fazrin-mauza/fazrin-mauza.github.io?color=blue&style=flat-square"></a>
